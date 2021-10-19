@@ -1,0 +1,105 @@
+.btn-start {
+	background-color: lightpink;
+	padding: 15px 20px;
+	border-radius: 10px;
+	color:  black;
+	font-family: oswald;
+	font-weight: bold;
+	margin-top: 100px;
+	font-size: 25px;
+}
+
+.btn-blue {
+	background-color: orangered ;
+    padding: 15px 50px;
+    border-radius: 10px;
+    color: black;
+    font-weight:bold;
+    font-family:'Oswald', sans-serif;
+    text-decoration: none;
+
+}
+
+.btn-black {
+	background-color: black ;
+    padding: 15px 100px;
+    border-radius: 10px;
+    color: white;
+    font-weight:bold;
+    font-family:'Oswald', sans-serif;
+    text-decoration: none;
+    box-shadow: 0xp 10xp 30xp rgba(0, 0, 0, 1.0);
+
+}
+
+.btn-next {
+	background-color: black;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight:bold;
+    font-family:'Oswald', sans-serif;
+    text-decoration: none;
+}
+
+.btn-us{
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: #F2CD00;
+    font-weight:bold;
+    text-decoration: none;
+    font-family:'Oswald', sans-serif
+}
+
+.btn-concept {
+  padding: 15px 20px;
+  color: lightpink; 
+  font-weight: bold;
+  text-decoration: none;
+  font-family:'Oswald', sans-serif
+}
+
+.btn-contact {
+  padding: 15px 20px;
+  color: darkred;
+  font-weight: bold;
+  text-decoration: none;
+  font-family:'Oswald', sans-serif
+}
+
+.btn-discpersonalshoppers{
+	background-color: lightpink;
+	padding: 15px 20px;
+	border-radius: 10px;
+	color:  black;
+	font-family: oswald;
+	font-weight: bold;
+	margin-top: 100px;
+	font-size: 25px;
+
+}
+
+.btn-personalshoppers {
+font-family: oswald;
+color: red;
+text-decoration: none;
+font-size: 25px;
+}
+
+.btn-howtoproceed {
+	font-family: oswald ;
+	color: #60B576;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+.btn-customerexp {
+ font-family: oswald ;
+  color: lightpink;
+  text-decoration: none;
+  font-size: 25px;
+	
+}
+
+
+
